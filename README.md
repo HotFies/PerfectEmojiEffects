@@ -35,6 +35,8 @@ database:
   username: root
   password: password
 ```
+### `Emojis.yml`
+
 Пример `Emojis.yml`:
 ```yaml
 animations:
