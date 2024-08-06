@@ -1,0 +1,13 @@
+name: PerfectEmojiEffects
+version: '${project.version}'
+main: hotfies.perfectemojieffects.PerfectEmojiEffects
+api-version: '1.21'
+load: STARTUP
+authors: [Dem1ch, Aneras]
+description: Play emoji for some...
+commands:
+  perfectemoji:
+    description: Set a perfect emoji animation.
+    usage: /perfectemoji <type> <name>
+    aliases: [pfemoji]
+depend: [MythicMobs]

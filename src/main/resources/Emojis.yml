@@ -1,0 +1,29 @@
+animations:
+  death:
+    first:
+      mm-id: death-id
+      permission: perfectemoji.death.first
+    second:
+      mm-id: death-id2
+      permission: perfectemoji.death.second
+  kill:
+    first:
+      mm-id: kill-id
+      permission: perfectemoji.kill.first
+    second:
+      mm-id: kill-id2
+      permission: perfectemoji.kill.second
+  join:
+    first:
+      mm-id: join-id
+      permission: perfectemoji.join.first
+    second:
+      mm-id: join-id2
+      permission: perfectemoji.join.second
+  respawn:
+    first:
+      mm-id: respawn-id
+      permission: perfectemoji.respawn.first
+    second:
+      mm-id: respawn-id2
+      permission: perfectemoji.respawn.second
